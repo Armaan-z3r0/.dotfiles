@@ -1,0 +1,62 @@
+# Browsers & heavy app configs (too big / personal)
+BraveSoftware/
+chromium/
+epiphany/
+falkon/
+dolphinrc
+evolution/
+libreoffice/
+Postman/
+QtProject.conf
+
+# Development projects / test dirs
+create-next-app-nodejs/
+nextjs-nodejs/
+go/
+nvimbak/
+yay/
+
+# Media & big app caches
+VirtualBox/
+libvirt/
+pulse/
+mpv/
+obsidian/
+Joplin/
+
+# Temporary or runtime files
+*.bak
+*.log
+*.tmp
+*.swp
+*~
+.cache/
+Trash/
+trashrc
+
+# System/service runtime
+systemd/
+procps/
+pavucontrol.ini
+dleyna-renderer-service.conf
+
+# App-specific large/cached stuff
+nautilus/
+nemo/
+menus/
+kwalletrc
+
+# IDE/editor caches
+Code/
+lazygit/
+nvimbak/
+
+# Scripts that are local-only
+tray-seperator.sh
+
+figma/
+neofetch/
+nitrogen/
+nuclei/
+org.gnome.Dictionary/ 
+picom/
