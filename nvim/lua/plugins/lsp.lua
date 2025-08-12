@@ -91,7 +91,7 @@ return {
       setup_lsp("pyright", {
         settings = {
           python = {
-            analysis = {
+              analysis = {
               autoSearchPaths = true,
               useLibraryCodeForTypes = true,
               typeCheckingMode = "basic",
